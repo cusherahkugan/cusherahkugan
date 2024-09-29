@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Cusherah Kugananthan!
 
-<!--
-**cusherahkugan/cusherahkugan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate developer based in Colombo, Sri Lanka, specializing in JavaScript, Node.js, and Angular. I have a keen interest in blockchain technologies like Web3 and Solidity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies I Work With
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks**: Node.js, Angular
+- **Tools**: Git, GitHub, Postman
+- **Blockchain**: Web3, Solidity
+
+### 💼 About Me
+I am dedicated to building innovative web applications that enhance user experiences. I thrive in collaborative environments where I can learn from others and contribute my expertise to exciting projects.
+
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/cusherah-kugan-9a9382315/)
+
+
+### 📫 Reach Out
+Feel free to reach out if you're interested in collaboration or just want to connect!
+
