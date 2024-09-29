@@ -7,18 +7,18 @@ I'm a passionate developer based in Colombo, Sri Lanka, specializing in JavaScri
 ### 🛠️ Technologies I Work With
 - **Programming Languages:**
     - <img src="https://upload.wikimedia.org/wikipedia/en/3/21/Java_logo_and_wordmark.svg" alt="Java" width="30"/> Java
-    - <img src="https://upload.wikimedia.org/wikipedia/en/9/99/JavaScript_logo_2.svg" alt="JavaScript" width="30"/> JavaScript
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30"/> JavaScript
     - <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="30"/> PHP
     - <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Programming_Language.svg" alt="C" width="30"/> C
-    - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL" width="30"/> MySQL
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL" width="30"/> MySQL
     - <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="30"/> HTML
     - <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" alt="CSS" width="30"/> CSS
 
 - **Frontend Frameworks:**
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="30"/> Node.js
+    - <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="30"/> Node.js
     - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="30"/> React.js
     - <img src="https://tailwindcss.com/_next/static/media/tailwind-logo.9c3f30b2.svg" alt="Tailwind CSS" width="30"/> Tailwind CSS
-    - <img src="https://material-ui.com/static/logo.png" alt="Material-UI" width="30"/> Material-UI
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Material-UI_Logo.svg" alt="Material-UI" width="30"/> Material-UI
     - <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="30"/> Bootstrap
 
 - **Backend Frameworks:**
@@ -26,7 +26,7 @@ I'm a passionate developer based in Colombo, Sri Lanka, specializing in JavaScri
 
 - **Databases:**
     - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL" width="30"/> MySQL
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Amazon_RDS_logo.svg" alt="AWS RDS" width="30"/> AWS RDS
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Amazon_RDS_logo.svg" alt="AWS RDS" width="30"/> AWS RDS
 
 - **Version Control:**
     - <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="30"/> Git
