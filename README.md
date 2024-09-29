@@ -2,7 +2,7 @@
 
 ### 🌟 Full Stack Developer
 
-I'm a passionate developer based in Colombo, Sri Lanka, specializing in JavaScript, Node.js, and Angular. I have a keen interest in blockchain technologies like Web3 and Solidity.
+I'm a passionate developer based in Colombo, Sri Lanka, specializing in Iava, JavaScript, React.js, and Springboot. I have a keen interest in Web development technologies and software development.
 
 ### 🛠️ Technologies I Work With
 - **Programming Languages:**
