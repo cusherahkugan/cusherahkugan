@@ -4,17 +4,9 @@
 
 As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, I specialize in Java, JavaScript, React.js, and Spring Boot. I am passionate about delivering high-quality web applications and software solutions. With a keen focus on user experience, I am constantly enhancing my skills and staying up-to-date with the latest technologies.
 
-### 🛠️ Experienced With 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,php,c,mysql,html,css" alt="Programming Languages" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,mui,bootstrap" alt="Frontend Frameworks" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=spring" alt="Backend Frameworks" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql,aws" alt="Databases" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode,intellij,figma,postman" alt="Development Tools" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=agile,scrum" alt="Methodologies" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=jira,trello" alt="Collaboration Tools" width="50" height="50"/>
-</p>
+### 🛠️ Experienced With
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,php,c,mysql,html,css,nodejs,react,spring,tailwind,mui,bootstrap,aws,rds,gcp,git,github,vscode,intellij,figma,postman,agile,scrum,jira,trello)](https://skillicons.dev)
 
 #### Familiarity with
 - Object-Oriented Programming (OOP) Concepts
