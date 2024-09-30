@@ -6,11 +6,13 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
 
 ### 🛠️ Experienced With
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,php,c,mysql,html,css,nodejs,react,spring,tailwind,mui,bootstrap,aws,rds,gcp,git,github,vscode,intellij,figma,postman,agile,scrum,jira,trello)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,php,c,mysql,html,css,nodejs,react,spring,tailwind,mui,bootstrap,aws,rds,git,github,vscode,intellij,figma,postman,jira,trello)](https://skillicons.dev)
 
 #### Familiarity with
 - Object-Oriented Programming (OOP) Concepts
 - RESTful API development
+- Agile,Scrum Methodologies
+- DSA fundamentals
 
 ### 💼 About Me
 
@@ -18,7 +20,7 @@ With a strong focus on professional development and teamwork, I am committed to 
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/cusherah-kugan-9a9382315/)
+- LinkedIn:[LinkedIn](https://www.linkedin.com/in/cusherah-kugan-9a9382315/)
 - Email: [cusherahkugan@gmail.com](mailto:cusherahkugan@gmail.com)
 
 ### 📫 Reach Out
