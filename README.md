@@ -32,7 +32,7 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
     <img src="https://skillicons.dev/icons?i=trello&size=64" style="width: 64px; height: 64px; margin: 5px;" alt="Trello" />
 </div>
 
-#### Familiarity with
+#### Familiar with
 - Object-Oriented Programming (OOP) Concepts
 - RESTful API development
 - Agile, Scrum Methodologies
