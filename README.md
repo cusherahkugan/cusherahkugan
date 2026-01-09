@@ -78,7 +78,7 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
 <div align="left">
 
 ### Careera - AI-Powered Recruitment Platform
-<img src="https://skillicons.dev/icons?i=nextjs,prisma&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,prisma,postgresql,tailwind,nodejs,openai&perline=8&size=128" />
 
 AI-powered recruitment platform with resume parsing, job matching, and ATS for application management. Integrates NextAuth for authentication and OpenAI for intelligent candidate-job recommendations.
 
