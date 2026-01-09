@@ -48,27 +48,27 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c,html&perline=7" width="800" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c,html&perline=7" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,react,angular,nextjs,tailwind,bootstrap,mui&perline=7" width="800" />
+  <img src="https://skillicons.dev/icons?i=css,react,angular,nextjs,tailwind,bootstrap,mui&perline=7" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,laravel,mysql,postgresql&perline=7" width="800" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,laravel,mysql,postgresql&perline=7" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,prisma,aws,azure,docker,kubernetes&perline=7" width="800" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,prisma,aws,azure,docker,kubernetes&perline=7" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman,figma&perline=7" width="800" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman,figma&perline=7" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,r&perline=7" width="228" />
+  <img src="https://skillicons.dev/icons?i=pytorch,r&perline=7" width="220" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
