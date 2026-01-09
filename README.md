@@ -1,80 +1,8 @@
 # 👋 Hello, I'm Cusherah Kugananthan!
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Frontend+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</div>
+### 🌟 Full Stack Developer
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cusherah-kugan-9a9382315/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cusherahkugan@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cusherah-kugan)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=cusherah-kugan&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-  
-</div>
-
----
-
-## 🚀 About Me
-
-```typescript
-const cusherah = {
-    location: "Colombo, Sri Lanka 🇱🇰",
-    education: "B.Sc. (Hons) in Information Systems @ UCSC",
-    currentGPA: "3.6/4.0",
-    role: "Software Engineer Intern @ Kingslake",
-    interests: ["Frontend Development", "UI/UX Design", "Machine Learning", "Federated Learning Security"],
-    currentlyWorking: "Cognitive-Inspired Defense Framework for Federated Learning",
-    lifePhilosophy: "Building scalable solutions with clean code and great UX ✨"
-};
-```
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 🎯 Quick Highlights
-
-- 💼 Building production apps with **React**, **Angular**, **Spring Boot**
-- 🔬 Researching **Federated Learning** security with Python & PyTorch
-- 🏆 Top 10 finalist in multiple hackathons
-- 🌱 Currently mastering **Next.js**, **NestJS**, and **Cloud Architecture**
-- ⚡ Fun fact: I love designing beautiful interfaces and solving complex problems!
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c,html,css" alt="Languages" />
-</p>
-
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap,mui" alt="Frontend" />
-</p>
-
-### ⚙️ Backend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,laravel" alt="Backend" />
-</p>
-
-### 🗄️ Databases & ORM
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,prisma" alt="Databases" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github" alt="Cloud & DevOps" />
-</p>
-
-### 🔧 Tools & Others
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,eclipse" alt="Tools" />
-  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="JIRA" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="48" height="48"/>
-</p>
+As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, I specialize in Java, JavaScript, React.js, and Spring Boot. I am passionate about delivering high-quality web applications and software solutions. With a keen focus on user experience, I am constantly enhancing my skills and staying up-to-date with the latest technologies.
 
 ---
 
@@ -82,7 +10,7 @@ const cusherah = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cusherah-kugan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusherah-kugan&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusherah-kugan&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -90,107 +18,147 @@ const cusherah = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cusherah-kugan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cusherah-kugan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 💼 Featured Projects
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="100" height="100" alt="Java" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=js" width="100" height="100" alt="JavaScript" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=ts" width="100" height="100" alt="TypeScript" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=python" width="100" height="100" alt="Python" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=php" width="100" height="100" alt="PHP" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=c" width="100" height="100" alt="C" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=html" width="100" height="100" alt="HTML" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=css" width="100" height="100" alt="CSS" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=react" width="100" height="100" alt="React" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=angular" width="100" height="100" alt="Angular" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="100" height="100" alt="Next.js" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="100" height="100" alt="Tailwind CSS" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="100" height="100" alt="Bootstrap" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=mui" width="100" height="100" alt="Material-UI" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="100" height="100" alt="Node.js" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=express" width="100" height="100" alt="Express.js" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=nestjs" width="100" height="100" alt="NestJS" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=spring" width="100" height="100" alt="Spring Boot" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=laravel" width="100" height="100" alt="Laravel" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="100" height="100" alt="MySQL" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=postgresql" width="100" height="100" alt="PostgreSQL" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="100" height="100" alt="MongoDB" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="100" height="100" alt="SQLite" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="100" height="100" alt="Prisma" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=aws" width="100" height="100" alt="AWS" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=azure" width="100" height="100" alt="Microsoft Azure" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=docker" width="100" height="100" alt="Docker" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="100" height="100" alt="Kubernetes" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=git" width="100" height="100" alt="Git" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=github" width="100" height="100" alt="GitHub" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="100" height="100" alt="VS Code" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=idea" width="100" height="100" alt="IntelliJ IDEA" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=eclipse" width="100" height="100" alt="Eclipse" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=postman" width="100" height="100" alt="Postman" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=figma" width="100" height="100" alt="Figma" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=pytorch" width="100" height="100" alt="PyTorch" style="animation: pulse 2s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=r" width="100" height="100" alt="R" style="animation: pulse 2s ease-in-out infinite;" />
+</div>
 
-[![Careera](https://github-readme-stats.vercel.app/api/pin/?username=cusherah-kugan&repo=careera&theme=tokyonight)](https://github.com/cusherah-kugan/careera)
-[![Eventix](https://github-readme-stats.vercel.app/api/pin/?username=cusherah-kugan&repo=eventix&theme=tokyonight)](https://github.com/cusherah-kugan/eventix)
+**Familiar with:** Object-Oriented Programming (OOP) Concepts • RESTful API Development • Agile & Scrum Methodologies • DSA Fundamentals • CI/CD • Project Management (JIRA, Trello)
+
+---
+
+## 🚀 Projects
+
+### **Careera** - AI-Powered Recruitment Platform (2025)
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs" width="70" height="70" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="70" height="70" alt="Prisma" />
+</p>
+
+AI-powered recruitment platform with resume parsing, job matching, and ATS for application management. Integrates NextAuth for authentication and OpenAI for intelligent candidate-job recommendations.
+
+---
+
+### **Eventix** - Event Management System (2024)
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react" width="70" height="70" alt="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="70" height="70" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=spring" width="70" height="70" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=aws" width="70" height="70" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="70" height="70" alt="MySQL" />
+</p>
+
+Event management system for UCSC clubs enabling authentication, real-time updates, and dashboards for participant tracking. Features an interactive calendar and notifications for smooth event coordination.
+
+---
+
+### **PropertyLanka** - Property Listing Platform (2025)
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs" width="70" height="70" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="70" height="70" alt="Tailwind CSS" />
+</p>
+
+Property listing platform with search, filtering, and dynamic routing, built following Coursera's Next.js specialization. Supports user authentication and responsive UI for seamless browsing and property management.
+
+---
+
+### **Chirpy** - Microblogging Platform (2025)
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=laravel" width="70" height="70" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=php" width="70" height="70" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="70" height="70" alt="SQLite" />
+</p>
+
+Tutorial-based microblogging platform extended with additional features like profile management, likes, and comment functionality. Implements secure authentication and user interactions to mimic a full-featured social platform.
+
+---
+
+### **FarmToKeells** - Supply Chain Platform (2023)
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=php" width="70" height="70" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="70" height="70" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=html" width="70" height="70" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="70" height="70" alt="CSS" />
+</p>
+
+Web platform connecting local farmers with Keells supermarkets for efficient supply management. Includes inventory tracking, delivery scheduling, and order management to streamline farm-to-store operations.
+
+---
+
+## 💼 About Me
+
+With a strong focus on professional development and teamwork, I am committed to delivering innovative solutions that drive value. I enjoy working in collaborative environments and am always open to learning new skills and techniques to enhance my work.
+
+Currently pursuing **B.Sc. (Hons) in Information Systems** at UCSC with a **GPA of 3.6/4.0** and **Dean's List** achievements. Working as a **Software Engineer Intern @ Kingslake**, developing production applications with Angular, React, and Spring Boot.
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cusherah-kugan-9a9382315/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cusherahkugan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cusherah-kugan)
 
 </div>
 
-### 🌟 Project Highlights
+### 📫 Reach Out
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **Careera** | Next.js, Prisma, OpenAI, NextAuth | AI-powered recruitment platform with resume parsing & job matching |
-| **Eventix** | React.js, Tailwind CSS, Spring Boot, AWS RDS | Event management system with real-time updates & dashboards |
-| **PropertyLanka** | Next.js, Tailwind CSS | Property listing platform with dynamic routing & authentication |
-| **Chirpy** | Laravel, PHP, SQLite | Microblogging platform with social features |
-| **FarmToKeells** | PHP, MySQL, HTML, CSS | Supply chain platform connecting farmers with supermarkets |
-
----
-
-## 🎓 Academic Research
-
-**Cognitive-Inspired Defense Framework for Federated Learning**
-- 🔬 Developing adaptive defense architecture to mitigate model poisoning attacks
-- 🧠 Integrating cognitive reasoning loops (OODA and MAPE-K)
-- 🛡️ Proactive anomaly detection and dynamic threat response
-- 🐍 Tech: Python, PyTorch, Flower Framework
-
----
-
-
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cusherah-kugan&theme=tokyonight" alt="Profile Summary" />
-</div>
-
----
-
-## 🎯 Areas of Expertise
-
-```javascript
-const expertise = {
-    frontend: ["React.js", "Angular", "Next.js", "Responsive Design", "UI/UX"],
-    backend: ["Node.js", "Express.js", "NestJS", "Spring Boot", "RESTful APIs"],
-    database: ["MySQL", "PostgreSQL", "MongoDB", "Prisma ORM"],
-    cloud: ["AWS", "AWS RDS", "Azure", "S3", "Docker", "Kubernetes"],
-    methodologies: ["Agile", "Scrum", "CI/CD", "Test-Driven Development"],
-    softSkills: ["Leadership", "Problem-Solving", "Time Management", "Teamwork", "Adaptability"]
-};
-```
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out!
-
-[![Email](https://img.shields.io/badge/Email-cusherahkugan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cusherahkugan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cusherah-kugan-9a9382315/)
-[![Location](https://img.shields.io/badge/Location-Colombo,_Sri_Lanka-00897B?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Colombo)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-  
-  ### Show some ❤️ by starring some of my repositories!
-  
-  ![Snake animation](https://raw.githubusercontent.com/cusherah-kugan/cusherah-kugan/output/github-contribution-grid-snake.svg)
-  
-</div>
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
 
 ---
 
 <div align="center">
   
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-  
+  ![Profile Views](https://komarev.com/ghpvc/?username=cusherah-kugan&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
   ![Visitor Count](https://profile-counter.glitch.me/cusherah-kugan/count.svg)
   
-</div>
+</di
