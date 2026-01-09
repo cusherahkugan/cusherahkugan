@@ -15,28 +15,26 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api?username=cusherahkugan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cusherahkugan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusherahkugan&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusherahkugan&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=cusherahkugan&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
-
+  <img width="90%" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=cusherahkugan&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <div align="center">
-  
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=cusherahkugan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
-
+  <img width="90%" 
+       src="https://github-profile-trophy.vercel.app/?username=cusherahkugan&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </div>
 
 <div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cusherahkugan&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="90%" alt="Contribution Graph"/>
-
+  <img width="90%" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=cusherahkugan&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
@@ -44,28 +42,27 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php" width="400" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c&perline=6&size=96" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,react,angular" width="400" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nextjs,tailwind&perline=6&size=96" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,mui,nodejs" width="400" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,mui,nodejs,express,nestjs,spring&perline=6&size=96" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=express,nestjs,spring,laravel,mysql" width="400" />
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,postgresql,mongodb,sqlite,prisma&perline=6&size=96" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,prisma,aws" width="400" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github&perline=6&size=96" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github" width="400" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,figma" width="400" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,r" width="160" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,figma,pytorch&perline=6&size=96" />
 </p>
 
 ---
