@@ -9,16 +9,16 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cusherah-kugan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusherah-kugan&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cusherahkugan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusherahkugan&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cusherah-kugan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cusherahkugan&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cusherah-kugan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cusherahkugan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -65,7 +65,6 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
   <img src="https://skillicons.dev/icons?i=r" width="100" height="100" alt="R" style="animation: pulse 2s ease-in-out infinite;" />
 </div>
 
-**Familiar with:** Object-Oriented Programming (OOP) Concepts • RESTful API Development • Agile & Scrum Methodologies • DSA Fundamentals • CI/CD • Project Management (JIRA, Trello)
 
 ---
 
@@ -146,7 +145,6 @@ Currently pursuing **B.Sc. (Hons) in Information Systems** at UCSC with a **GPA 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cusherah-kugan-9a9382315/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cusherahkugan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cusherah-kugan)
 
 </div>
 
