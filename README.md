@@ -14,23 +14,22 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api?username=cusherahkugan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
-  
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusherahkugan&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
-</div>
+<p align="center">
+  <img width="48%" 
+       src="https://raw.githubusercontent.com/cusherahkugan/cusherahkugan/main/assets/github-stats.svg" />
+  <img width="48%" 
+       src="https://raw.githubusercontent.com/cusherahkugan/cusherahkugan/main/assets/top-langs.svg" />
+</p>
 
-<div align="center">
+<p align="center">
   <img width="90%" 
-       src="https://github-readme-streak-stats.herokuapp.com?user=cusherahkugan&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
+       src="https://raw.githubusercontent.com/cusherahkugan/cusherahkugan/main/assets/streak-stats.svg" />
+</p>
 
-<div align="center">
+<p align="center">
   <img width="90%" 
-       src="https://github-profile-trophy.vercel.app/?username=cusherahkugan&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-</div>
+       src="https://raw.githubusercontent.com/cusherahkugan/cusherahkugan/main/assets/trophies.svg" />
+</p>
 
 <div align="center">
   <img width="90%" 
