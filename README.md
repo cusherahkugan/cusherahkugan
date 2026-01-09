@@ -41,27 +41,27 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c&perline=6&size=96" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c&perline=6&size=128" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nextjs,tailwind&perline=6&size=96" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nextjs,tailwind&perline=6&size=128" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,mui,nodejs,express,nestjs,spring&perline=6&size=96" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,mui,nodejs,express,nestjs,spring&perline=6&size=128" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,postgresql,mongodb,sqlite,prisma&perline=6&size=96" />
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,postgresql,mongodb,sqlite,prisma&perline=6&size=128" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github&perline=6&size=96" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github&perline=6&size=128" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,figma,pytorch&perline=6&size=96" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,figma,pytorch&perline=6&size=128" />
 </p>
 
 ---
