@@ -43,25 +43,30 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c,html,css" alt="Tech Stack" width="500"/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php" width="400" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap,mui,nodejs,express" alt="Tech Stack" width="500"/>
+  <img src="https://skillicons.dev/icons?i=c,html,css,react,angular" width="400" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,spring,laravel,mysql,postgresql,mongodb,sqlite,prisma" alt="Tech Stack" width="500"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,mui,nodejs" width="400" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,vscode,idea" alt="Tech Stack" width="500"/>
+  <img src="https://skillicons.dev/icons?i=express,nestjs,spring,laravel,mysql" width="400" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=eclipse,postman,figma,pytorch,r" alt="Tech Stack" width="500"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,prisma,aws" width="400" />
 </p>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github" width="400" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,figma" width="400" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,r" width="160" />
+</p>
 
 ---
 
