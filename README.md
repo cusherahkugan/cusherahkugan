@@ -48,27 +48,27 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c,html" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c,html&perline=7" width="800" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,react,angular,nextjs,tailwind,bootstrap,mui" />
+  <img src="https://skillicons.dev/icons?i=css,react,angular,nextjs,tailwind,bootstrap,mui&perline=7" width="800" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,laravel,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,laravel,mysql,postgresql&perline=7" width="800" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,prisma,aws,azure,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,prisma,aws,azure,docker,kubernetes&perline=7" width="800" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman,figma&perline=7" width="800" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,r" />
+  <img src="https://skillicons.dev/icons?i=pytorch,r&perline=7" width="228" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -114,19 +114,18 @@ Web platform connecting local farmers with Keells supermarkets. Includes invento
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 About Me
+## 💼 Professional Experience & Education
 
 <div align="center">
 
-🎓 B.Sc. (Hons) in Information Systems at UCSC | GPA: 3.6/4.0 | Dean's List
+💼 Software Engineer Intern at Kingslake  
+Building production-ready applications with Angular, React, and Spring Boot
 
-💼 Software Engineer Intern @ Kingslake
+🎓 B.Sc. (Hons) in Information Systems - University of Colombo School of Computing  
+Dean's List Achievement
 
-🔧 Developing production applications with Angular, React, and Spring Boot
-
-🌱 Constantly learning and staying up-to-date with the latest technologies
-
-🤝 Committed to delivering innovative solutions through collaboration
+🌱 Passionate about learning emerging technologies and best practices  
+Committed to delivering innovative solutions through collaboration
 
 </div>
 
@@ -138,7 +137,6 @@ Web platform connecting local farmers with Keells supermarkets. Includes invento
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cusherah-kugan-9a9382315/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cusherahkugan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cusherahkugan)
 
 </div>
 
