@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Cusherah Kugananthan!
 
-<div align="center">
+<div align="left">
   
 ### 🌟 Full Stack Developer
 
@@ -47,27 +47,27 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c,html&perline=7" width="700" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=css,react,angular,nextjs,tailwind,bootstrap,mui&perline=7" width="700" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,laravel,mysql,postgresql&perline=7" width="700" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,sqlite,prisma,aws,azure,docker,kubernetes&perline=7" width="700" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman,figma&perline=7" width="700" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,r&perline=7" width="220" />
 </p>
 
@@ -75,7 +75,7 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### Careera - AI-Powered Recruitment Platform
 <img src="https://skillicons.dev/icons?i=nextjs,prisma&theme=dark" alt="Tech Stack" />
@@ -114,26 +114,10 @@ Web platform connecting local farmers with Keells supermarkets. Includes invento
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 Professional Experience & Education
-
-<div align="center">
-
-💼 Software Engineer Intern at Kingslake  
-Building production-ready applications with Angular, React, and Spring Boot
-
-🎓 B.Sc. (Hons) in Information Systems - University of Colombo School of Computing  
-Dean's List Achievement
-
-🌱 Passionate about learning emerging technologies and best practices  
-Committed to delivering innovative solutions through collaboration
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<div align="left">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cusherah-kugan-9a9382315/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cusherahkugan@gmail.com)
@@ -142,7 +126,7 @@ Committed to delivering innovative solutions through collaboration
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<div align="left">
 
 ### 📫 Let's Build Something Amazing Together!
 
