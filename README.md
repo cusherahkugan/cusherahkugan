@@ -1,46 +1,24 @@
 # 👋 Hello, I'm Cusherah Kugananthan!
 
 <div align="left">
-  
-### 🌟 Full Stack Developer
 
+### 🌟 Full Stack Developer
 *Crafting innovative web solutions with passion and precision*
 
-As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, I specialize in Java, JavaScript, React.js, and Spring Boot. I am passionate about delivering high-quality web applications and software solutions. With a keen focus on user experience, I am constantly enhancing my skills and staying up-to-date with the latest technologies.
+As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, I specialize in building scalable and user-centric web applications using Java, JavaScript, React.js, and Spring Boot. I enjoy transforming complex requirements into clean, efficient solutions while continuously improving my technical and problem-solving skills.
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Insights
 
 <div align="center">
-  
-<a href="https://github.com/cusherahkugan">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cusherahkugan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cusherahkugan&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
-
+  <img src="https://metrics.lecoq.io/cusherahkugan?template=classic&languages=1&activity=1&repositories=1&achievements=1&stars=1&config.timezone=Asia/Colombo" />
 </div>
 
 <div align="center">
-  
-<a href="https://github.com/cusherahkugan">
-  <img src="https://streak-stats.demolab.com/?user=cusherahkugan&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
-</a>
-
-</div>
-
-<div align="center">
-  
-<a href="https://github.com/cusherahkugan">
-  <img src="https://github-profile-trophy.vercel.app/?username=cusherahkugan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
-</a>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cusherahkugan&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cusherahkugan&bg_color=0d1117&color=00ff99&line=ffee00&point=00ff99&hide_border=true" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -67,77 +45,67 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman,figma&perline=7" width="700" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,r&perline=7" width="220" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
-<div align="left">
+### 🧠 Careera – AI-Powered Recruitment Platform
 
-### Careera - AI-Powered Recruitment Platform
-<img src="https://skillicons.dev/icons?i=nextjs,ts,prisma,postgresql,tailwind,nodejs,openai&perline=8&size=128" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,prisma,postgresql,tailwind,openai&perline=7" width="700" />
+</p>
 
-AI-powered recruitment platform with resume parsing, job matching, and ATS for application management. Integrates NextAuth for authentication and OpenAI for intelligent candidate-job recommendations.
+Careera is an AI-driven recruitment and applicant tracking system that automates resume parsing, intelligent candidate–job matching, and application management. The platform integrates semantic AI analysis for ranking candidates, secure authentication, recruiter dashboards, and a modern responsive UI built with Next.js and Tailwind CSS.
 
-<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834668-8f322500-a448-11eb-9c32-14b1cfc3b8e3.gif">
 
-### Eventix - Event Management System
-<img src="https://skillicons.dev/icons?i=react,tailwind,spring,aws,mysql&theme=dark" alt="Tech Stack" />
+### 🎟️ Eventix – Event Management System
 
-Event management system for UCSC clubs enabling authentication, real-time updates, and dashboards for participant tracking. Features an interactive calendar and notifications for smooth event coordination.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,java,spring,mysql,aws,git&perline=7" width="700" />
+</p>
 
-<br><br>
+Eventix is a full-stack event management system designed for university clubs, enabling event creation, participant tracking, proposal handling, and sponsorship management. It features role-based access, interactive dashboards, and real-time data handling using a Spring Boot backend and a React frontend.
 
-### PropertyLanka - Property Listing Platform
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind&theme=dark" alt="Tech Stack" />
+<img src="https://user-images.githubusercontent.com/73097560/115834772-c30d4a80-a448-11eb-8bba-2e5d80a89f6e.gif">
 
-Property listing platform with search, filtering, and dynamic routing. Supports user authentication and responsive UI for seamless browsing and property management.
+### 🏠 PropertyLanka – Property Listing Platform
 
-<br><br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,js,html,css,git,vercel&perline=7" width="700" />
+</p>
 
-### Chirpy - Microblogging Platform
-<img src="https://skillicons.dev/icons?i=laravel,php,sqlite&theme=dark" alt="Tech Stack" />
+PropertyLanka is a modern real-estate listing platform that allows users to browse and filter properties through a clean and responsive interface. Built with Next.js, the application supports dynamic routing, SEO optimization, and scalable architecture suitable for future expansion.
 
-Microblogging platform with profile management, likes, and comment functionality. Implements secure authentication and user interactions.
+<img src="https://user-images.githubusercontent.com/73097560/115834902-0a93d680-a449-11eb-8e3c-44f5d53e4d7f.gif">
 
-<br><br>
+### 🐦 Chirpy – Microblogging Platform
 
-### FarmToKeells - Supply Chain Platform
-<img src="https://skillicons.dev/icons?i=php,mysql,html,css&theme=dark" alt="Tech Stack" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,php,sqlite,html,css,git,github&perline=7" width="700" />
+</p>
 
-Web platform connecting local farmers with Keells supermarkets. Includes inventory tracking, delivery scheduling, and order management.
+Chirpy is a lightweight microblogging platform that enables users to create posts, interact through likes and comments, and manage personal profiles. Developed using Laravel, the project demonstrates secure authentication, relational data modeling, and clean MVC-based backend architecture.
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115835023-49c22780-a449-11eb-9a1f-7f84cfa6d4b7.gif">
+
+### 🌾 FarmToKeells – Supply Chain Management Platform
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,git,github&perline=7" width="700" />
+</p>
+
+FarmToKeells is a web-based supply chain management system that connects local farmers directly with supermarket buyers. It streamlines inventory management, order processing, and delivery scheduling using PHP and MySQL.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ## 🌐 Connect with Me
 
-<div align="left">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cusherah-kugan-9a9382315/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cusherahkugan@gmail.com)
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="left">
-
-### 📫 Let's Build Something Amazing Together!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
-
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=cusherahkugan&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=cusherahkugan&style=for-the-badge&color=58A6FF)
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
