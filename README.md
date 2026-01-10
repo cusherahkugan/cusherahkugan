@@ -1,5 +1,8 @@
 # 👋 Hello, I'm Cusherah Kugananthan!
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <div align="left">
 
 ### 🌟 Full Stack Developer
@@ -9,9 +12,6 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Activity & Insights
 
 
 <div align="center">
