@@ -13,10 +13,6 @@ As a dedicated and results-driven Full Stack Developer from Colombo, Sri Lanka, 
 
 ## 📊 GitHub Activity & Insights
 
-<div align="center">
-  <img src="https://github-readme-stats-nlwd4ijv6-cusherahs-projects.vercel.app/api?username=cusherahkugan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=ffee00&text_color=ffffff" height="180" />
-  <img src="https://github-readme-stats-nlwd4ijv6-cusherahs-projects.vercel.app/api/top-langs/?username=cusherahkugan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=ffffff" height="180" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cusherahkugan&bg_color=0d1117&color=00ff99&line=ffee00&point=00ff99&hide_border=true" />
