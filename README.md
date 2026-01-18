@@ -66,14 +66,10 @@ Eventix is a full-stack event management system designed for university clubs, e
 
 <img src="https://user-images.githubusercontent.com/73097560/115834772-c30d4a80-a448-11eb-8bba-2e5d80a89f6e.gif">
 
-### 🏠 PropertyLanka – Property Listing Platform
+🏠 PropertyLanka – Property Listing Platform
+<p align="left"> <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,mongodb,git,google,cloudinary&perline=8" width="700" /> </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,js,html,css,git,vercel&perline=7" width="700" />
-</p>
-
-PropertyLanka is a modern real-estate listing platform that allows users to browse and filter properties through a clean and responsive interface. Built with Next.js, the application supports dynamic routing, SEO optimization, and scalable architecture suitable for future expansion.
-
+PropertyLanka is a full-stack real-estate listing platform built with Next.js and Tailwind CSS, started based on the Coursera Next.js Specialization Course and enhanced with real-world features to create a complete property rental solution. It includes dynamic property listings, search and filtering, secure authentication using NextAuth with Google OAuth, MongoDB for data storage, and Cloudinary for efficient image management.
 <img src="https://user-images.githubusercontent.com/73097560/115834902-0a93d680-a449-11eb-8e3c-44f5d53e4d7f.gif">
 
 ### 🐦 Chirpy – Microblogging Platform
