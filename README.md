@@ -1,4 +1,3 @@
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">👋 Hi, I'm Cusherah Kugananthan</h1>
@@ -24,10 +23,10 @@
 
 ## 👨‍💻 About Me
 
-🎓 **B.Sc. (Hons) in Information Systems — First Class Honours | GPA: 3.71/4.00**  
-🏫 University of Colombo School of Computing (UCSC)  
-💼 Software Engineer | Full Stack Developer 
-🔬 Research: Federated Learning & AI Security  
+🎓 **B.Sc. (Hons) in Information Systems — First Class Honours | GPA: 3.71/4.00**
+🏫 University of Colombo School of Computing (UCSC)
+💼 Software Engineer | Full Stack Developer
+🔬 Research: Federated Learning & AI Security
 🤖 Interested in AI/ML, Data Science & Full-Stack Development
 
 ---
@@ -42,13 +41,14 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🤖 **[Careera](https://github.com/cusherahkugan/Careera)** | AI-powered recruitment & applicant tracking platform |
-| 🎟️ **[Eventix](https://github.com/cusherahkugan/Eventix-frontend)** | Full-stack event management system for UCSC clubs |
-| 🏠 **[PropertyLanka](https://github.com/cusherahkugan/PropertyLanka)** | Property listing platform built with Next.js |
-| 🐦 **[Chirpy](https://github.com/cusherahkugan/Chirpy)** | Laravel-based microblogging platform |
-| 🌾 **[FarmToKeells](https://github.com/cusherahkugan/FarmToKeells)** | Farmer-to-supermarket supply management platform |
+| Project                                                                                      | Description                                                                                                                               |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 🤖 **[RAG-Based Quiz Generator](https://github.com/cusherahkugan/RAG-Based-Quiz-Generator)** | AI quiz-generation agent built with Google ADK and Gemini, using document-based RAG with embeddings and NumPy cosine-similarity retrieval |
+| 🤖 **[Careera](https://github.com/cusherahkugan/Careera)**                                   | AI-powered recruitment & applicant tracking platform                                                                                      |
+| 🎟️ **[Eventix](https://github.com/cusherahkugan/Eventix-frontend)**                         | Full-stack event management system for UCSC clubs                                                                                         |
+| 🏠 **[PropertyLanka](https://github.com/cusherahkugan/PropertyLanka)**                       | Property listing platform built with Next.js                                                                                              |
+| 🐦 **[Chirpy](https://github.com/cusherahkugan/Chirpy)**                                     | Laravel-based microblogging platform                                                                                                      |
+| 🌾 **[FarmToKeells](https://github.com/cusherahkugan/FarmToKeells)**                         | Farmer-to-supermarket supply management platform                                                                                          |
 
 ---
 
@@ -58,7 +58,7 @@
 
 **Python · PyTorch · Flower**
 
-Designed and implemented an adaptive defense framework to mitigate model-poisoning attacks in Federated Learning, integrating OODA and MAPE-K cognitive reasoning loops for anomaly detection and dynamic threat response. Evaluated the framework across multiple poisoning attacks in a 100-client non-IID environment, achieving 92.5--97.4\% accuracy at round 30 and up to 98.7--99.0\% peak accuracy.
+Designed and implemented an adaptive defense framework to mitigate model-poisoning attacks in Federated Learning, integrating OODA and MAPE-K cognitive reasoning loops for anomaly detection and dynamic threat response. Evaluated the framework across multiple poisoning attacks in a 100-client non-IID environment, achieving 92.5--97.4% accuracy at round 30 and up to 98.7--99.0% peak accuracy.
 
 🔗 [Research Repository](https://github.com/cusherahkugan/FL_CognitiveDefence)
 
