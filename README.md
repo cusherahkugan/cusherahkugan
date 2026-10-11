@@ -1,8 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0a1a2b,50:1f6f9f,100:6fd3ff&text=Cusherah%20Kugananthan&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Cusherah Kugananthan, Full-Stack Developer">
-
+  <h1 align="center">Cusherah Kugananthan</h1>
 <p align="center">
   <a href="https://github.com/cusherahkugan">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=2800&pause=900&color=6FD3FF&center=true&vCenter=true&width=640&lines=I+build+end-to-end+web+applications;Next.js+%C2%B7+Angular+%C2%B7+Spring+Boot+%C2%B7+Laravel;Researching+federated+learning+security" alt="Typing animation of my focus areas">
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=2800&pause=900&color=6FD3FF&center=true&vCenter=true&width=640&lines=I+build+end-to-end+web+applications;Next.js+%C2%B7+Angular+%C2%B7+Spring+Boot+%C2%B7+Laravel;" alt="Typing animation of my focus areas">
   </a>
 </p>
 
@@ -20,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap,nodejs,express,spring,laravel&theme=dark&perline=9" alt="Frameworks"><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma,aws,azure&theme=dark&perline=7" alt="Databases and cloud"><br>
   <img src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes,git,github,githubactions,postman,vercel&theme=dark" alt="PyTorch"><br>
-   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Gemini-1f6f9f?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI">
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"><br>
@@ -110,7 +109,7 @@ An adaptive defense framework against model-poisoning attacks in federated learn
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=cusherahkugan&bg_color=0a1a2b&color=9db6c9&line=6fd3ff&point=ffffff&area=true&area_color=6fd3ff&hide_border=true" alt="Contribution activity graph">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=cusherahkugan&bg_color=0a1a2b&color=9db6c9&line=6fd3ff&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph">
 </p>
 
 <br>
@@ -122,5 +121,3 @@ An adaptive defense framework against model-poisoning attacks in federated learn
 <br>
 
 <p align="center"><i>Build. Learn. Research. Improve.</i></p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:6fd3ff,50:1f6f9f,100:0a1a2b&section=footer&reversal=true" alt="">
