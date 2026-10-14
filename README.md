@@ -108,9 +108,10 @@ An adaptive defense framework against model-poisoning attacks in federated learn
   <img height="170" src="https://streak-stats.demolab.com?user=cusherahkugan&hide_border=true&background=0a1a2b&stroke=1f6f9f&ring=6fd3ff&fire=6fd3ff&currStreakNum=dce9f2&sideNums=dce9f2&currStreakLabel=6fd3ff&sideLabels=9db6c9&dates=9db6c9" alt="Contribution streak">
 </p>
 
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=cusherahkugan&bg_color=0a1a2b&color=9db6c9&line=6fd3ff&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph">
-</p>
+
+<!-- <p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=cusherahkugan&theme=react-dark" alt="GitHub Contribution Activity Graph">
+</p> -->
 
 <br>
 
