@@ -1,4 +1,4 @@
-  <h1 align="center">Cusherah Kugananthan</h1>
+<h1 align="center">Cusherah Kugananthan</h1>
 <p align="center">
   <a href="https://github.com/cusherahkugan">
     <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=2800&pause=900&color=6FD3FF&center=true&vCenter=true&width=640&lines=I+build+end-to-end+web+applications;Next.js+%C2%B7+Angular+%C2%B7+Spring+Boot+%C2%B7+Laravel;" alt="Typing animation of my focus areas">
@@ -18,8 +18,9 @@
   <img src="https://skillicons.dev/icons?i=java,py,c,js,ts,php,html,css&theme=dark&perline=8" alt="Languages"><br>
   <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap,nodejs,express,spring,laravel&theme=dark&perline=9" alt="Frameworks"><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma,aws,azure&theme=dark&perline=7" alt="Databases and cloud"><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes,git,github,githubactions,postman,vercel&theme=dark" alt="PyTorch"><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,linux,docker,kubernetes,git,github,githubactions,postman,vercel&theme=dark" alt="PyTorch, OpenCV, Linux and tooling"><br>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" alt="MediaPipe">
   <img src="https://img.shields.io/badge/Gemini-1f6f9f?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI">
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"><br>
@@ -45,6 +46,25 @@
       An AI-powered recruitment platform with resume parsing, job matching and an applicant tracking system. It uses NextAuth for secure sign-in and the OpenAI API for candidate and job recommendations.<br><br>
       <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,prisma,postgres&theme=dark" alt="Next.js, TypeScript, Tailwind, Prisma, PostgreSQL"><br>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/cusherahkugan/Hand-Gesture-Recognition">Hand Gesture Recognition</a></h3>
+      <sub>2026</sub><br>
+      A real-time hand gesture recognition system built on MediaPipe's hand landmark model. It tracks hand landmarks from a live camera feed and classifies gestures on the fly.<br><br>
+      <img src="https://skillicons.dev/icons?i=py,opencv&theme=dark" alt="Python, OpenCV"><br>
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" alt="MediaPipe">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+    </td>
+       <td width="50%" valign="top">
+      <h3><a href="https://github.com/cusherahkugan/Cron-Daemon">Cron Daemon</a></h3>
+      <sub>2026</sub><br>
+      An automated study-guide generator that runs nightly on a GitHub Actions schedule. It picks one subtopic per technical subject (DSA, Java, Docker, React and more), scrapes the matching tutorial, cleans it into structured notes, and compiles everything into a compact multi-column PDF that auto-fits a page target. The PDF is emailed over Gmail SMTP, and the pipeline is covered by pytest tests and a Dockerfile.<br><br>
+      <img src="https://skillicons.dev/icons?i=py,githubactions,docker&theme=dark" alt="Python, GitHub Actions, Docker"><br>
+      <img src="https://img.shields.io/badge/WeasyPrint-1f6f9f?style=flat-square" alt="WeasyPrint">
+      <img src="https://img.shields.io/badge/Gmail%20SMTP-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail SMTP">
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
     </td>
   </tr>
   <tr>
