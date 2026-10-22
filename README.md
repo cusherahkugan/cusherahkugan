@@ -18,9 +18,10 @@
   <img src="https://skillicons.dev/icons?i=java,py,c,js,ts,php,html,css&theme=dark&perline=8" alt="Languages"><br>
   <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap,nodejs,express,spring,laravel&theme=dark&perline=9" alt="Frameworks"><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma,aws,azure&theme=dark&perline=7" alt="Databases and cloud"><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,linux,docker,kubernetes,git,github,githubactions,postman,vercel&theme=dark" alt="PyTorch, OpenCV, Linux and tooling"><br>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,githubactions,postman,vercel&theme=dark&perline=8" alt="Tooling"><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,matplotlib,opencv&theme=dark&perline=6" alt="ML, data science and computer vision"><br>
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" alt="MediaPipe">
+  <img src="https://img.shields.io/badge/Joblib-F7931E?style=flat-square" alt="Joblib">
   <img src="https://img.shields.io/badge/Gemini-1f6f9f?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI">
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"><br>
@@ -50,14 +51,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/cusherahkugan/Hand-Gesture-Recognition">Hand Gesture Recognition</a></h3>
+      <h3><a href="https://github.com/cusherahkugan/mediapipe-hand-gesture-recognition">MediaPipe Hand Gesture Recognition</a></h3>
       <sub>2026</sub><br>
-      A real-time hand gesture recognition system built on MediaPipe's hand landmark model. It tracks hand landmarks from a live camera feed and classifies gestures on the fly.<br><br>
-      <img src="https://skillicons.dev/icons?i=py,opencv&theme=dark" alt="Python, OpenCV"><br>
+      A real-time hand gesture recognition pipeline. It records labelled samples from a webcam using MediaPipe's 21-point hand landmarks, engineers features from the landmark coordinates, and trains a scikit-learn classifier. A live OpenCV app then predicts gestures from the camera feed and announces them with text-to-speech.<br><br>
+      <img src="https://skillicons.dev/icons?i=py,opencv,sklearn,numpy,pandas,matplotlib&theme=dark" alt="Python, OpenCV, scikit-learn, NumPy, pandas, Matplotlib"><br>
       <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" alt="MediaPipe">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+      <img src="https://img.shields.io/badge/Joblib-F7931E?style=flat-square" alt="Joblib">
+      <img src="https://img.shields.io/badge/pyttsx3-4B8BBE?style=flat-square" alt="pyttsx3">
     </td>
-       <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/cusherahkugan/Cron-Daemon">Cron Daemon</a></h3>
       <sub>2026</sub><br>
       An automated study-guide generator that runs nightly on a GitHub Actions schedule. It picks one subtopic per technical subject (DSA, Java, Docker, React and more), scrapes the matching tutorial, cleans it into structured notes, and compiles everything into a compact multi-column PDF that auto-fits a page target. The PDF is emailed over Gmail SMTP, and the pipeline is covered by pytest tests and a Dockerfile.<br><br>
