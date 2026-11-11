@@ -24,8 +24,10 @@
   <img src="https://img.shields.io/badge/Joblib-F7931E?style=flat-square" alt="Joblib">
   <img src="https://img.shields.io/badge/Gemini-1f6f9f?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"><br>
-</p>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain">
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"><br></p>
 
 <br>
 
@@ -95,8 +97,21 @@
       <h3><a href="https://github.com/cusherahkugan/Chirpy">Chirpy</a></h3>
       <sub>2025 &middot; tutorial-based</sub><br>
       A microblogging platform that I extended with profile management, likes and comments, plus secure authentication.<br><br>
-      <img src="https://skillicons.dev/icons?i=laravel,php,sqlite,tailwind&theme=dark" alt="Laravel, PHP, SQLite, Tailwind">
+           <img src="https://skillicons.dev/icons?i=laravel,php,sqlite,tailwind&theme=dark" alt="Laravel, PHP, SQLite, Tailwind">
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/cusherahkugan/LangGraph-Based-Intelligent-Customer-Support-Agent">LangGraph Customer Support Agent</a></h3>
+      <sub>2026</sub><br>
+      A multi-step customer support agent built with LangGraph. It classifies each complaint as billing, technical or general using Pydantic structured output, routes it through conditional edges to a department-specific node, and generates a tailored reply.<br><br>
+      <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python"><br>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain">
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq">
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" alt="Pydantic">
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
